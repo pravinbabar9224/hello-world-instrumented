@@ -15,4 +15,4 @@ spec:
     port: 5000
   - name: metrics
     port: 8000
-  type: LoadBalancer
+  type: NodePort
